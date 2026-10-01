@@ -7,8 +7,8 @@ window.MANAKEESH = {
   name: "Manakeesh Corner",
   tagline: "Your favourites, one click away.",
   logo: "logo.jpg",
-  hero: "food/cheese-zaatar.jpg",
-  heroAlt: "Cheese and zaatar manakeesh",
+  hero: "food/spread.jpg",
+  heroAlt: "Manakeesh, wraps, burgers and sides",
 
   /* Optional. Leave blank to hide the offer strip. */
   offer: "",
